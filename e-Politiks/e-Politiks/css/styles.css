@@ -3942,6 +3942,15 @@ input[type=button].btn-block {
   color: white;
   border-left: 1px solid white;
   border-right: 1px solid white;
+}
+
+#botones-dropdown{
+  width: 100%;
+  text-align: center;
+}
+
+#botones-dropdown li a:hover{
+  color: #1C3F03;
 
 }
 
